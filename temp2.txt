@@ -1,2 +1,2 @@
-Message : hiiiii
-Full Name : chandan pradhan
+hiiiii
+name : chandan 
